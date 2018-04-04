@@ -13,6 +13,8 @@ baseurl: /1718-3CMO-BaP-heledesm # the subpath of your site, e.g. /blog
 # ─────────────────────
 title: 1718 BaP CMO
 
+client: The Incredible DiscCatchers
+
 # Build settings
 # ──────────────
 defaults:
