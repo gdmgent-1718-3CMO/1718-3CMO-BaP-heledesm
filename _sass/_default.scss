@@ -54,15 +54,15 @@ main ul {
   list-style: none;  
   margin: 0 0 1em;
   padding: 0;
-  li {
-    padding-left: 25px;
-    text-indent: -25px;
-    &:before {
-        content:'\2022';
-        color: $mycolor-5;
-        margin-right: 18px;
-    }    
-  }
+//li {
+//  padding-left: 25px;
+//  text-indent: -25px;
+//  &:before {
+//      content:'\2022';
+//      color: $mycolor-5;
+//      margin-right: 18px;
+//  }    
+//}
 }
 
 //geordende lijstjes met een ander symbool of kleur
