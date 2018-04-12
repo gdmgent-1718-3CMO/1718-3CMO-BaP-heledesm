@@ -1,7 +1,10 @@
 /* Navigation
 ---------------------------------------------
 */
-.navbar a {
+.navbar { 
+  background-color: $mycolor-5;
+  
+  a {
     border: none;
 }
 
@@ -36,10 +39,6 @@ footer {
             
         }
     }
-}
-
-.nav-side {
-  background-color: $mycolor-5;
 }
 
 /* BACK TO TOP
