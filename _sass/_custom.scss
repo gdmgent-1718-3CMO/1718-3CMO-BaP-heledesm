@@ -1,12 +1,8 @@
 /* Navigation
 ---------------------------------------------
 */
-.navbar { 
-  background-color: $mycolor-5;
-
-  a {
+.navbar a {
     border: none;
-  } 
 }
 
 /* FOOTER
@@ -41,6 +37,8 @@ footer {
         }
     }
 }
+
+.bg-5 { background-color: $mycolor-5; } 
 
 /* BACK TO TOP
 -------------------------
