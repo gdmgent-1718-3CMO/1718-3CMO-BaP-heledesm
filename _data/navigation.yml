@@ -9,7 +9,7 @@
 
 - name: Logo
   description: Logo
-  folder: pages/logo/
+  #folder: pages/logo/
   permalink: logo/
   # fa-icon: icon-graduation-cap
 
