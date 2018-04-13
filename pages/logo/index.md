@@ -3,6 +3,7 @@
 permalink: logo/
 published: true
 title: Logo intro
+image: images/honden/hond2.jpg
 ---
 
 # Het logo
