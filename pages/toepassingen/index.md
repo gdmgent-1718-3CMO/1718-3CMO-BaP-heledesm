@@ -1,6 +1,6 @@
 ---
 # layout: vertical
-permalink: logo/
+permalink: toepassingen/
 published: true
 title: Logo intro
 image: images/honden/hond7.jpg
