@@ -38,7 +38,17 @@ footer {
     }
 }
 
-.bg-5 { background-color: $mycolor-5; } 
+.bg-1 { background-color: $mycolor-1; }
+.bg-2 { background-color: $mycolor-2; }
+.bg-3 { background-color: $mycolor-3; }
+.bg-4 { background-color: $mycolor-4; }
+.bg-5 { background-color: $mycolor-5; }
+
+.fg-1 { color: $mycolor-1; }
+.fg-2 { color: $mycolor-2; }
+.fg-3 { color: $mycolor-3; }
+.fg-4 { color: $mycolor-4; }
+.fg-5 { color: $mycolor-5; }
 
 .navbar {
     color: white;
@@ -100,9 +110,6 @@ text-align: center;
 {
   color:$mycolor-5;
 }
-
-
-
 
 /* BACK TO TOP
 -------------------------
