@@ -7,17 +7,11 @@
   permalink: / 
   # fa-icon: icon-info
 
-  - name: Logo
+- name: Logo
   description: Logo
-  # folder: pages/logo/
-  permalink: / 
-  # fa-icon: icon-info
-
-  - name: Kleur
-  description: Kleur
-  # folder: pages/kleur/
-  permalink: / 
-  # fa-icon: icon-info
+  #folder: pages/logo/
+  permalink: logo/
+  # fa-icon: icon-graduation-cap
 
 - name: Kleur
   description: Kleur
