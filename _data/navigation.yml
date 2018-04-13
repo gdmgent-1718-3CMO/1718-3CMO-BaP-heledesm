@@ -15,7 +15,7 @@
 
 - name: Kleur
   description: Kleur
-  folder: pages/kleur/
+  #folder: pages/kleur/
   permalink: kleur/i
   # fa-icon: icon-info
 
