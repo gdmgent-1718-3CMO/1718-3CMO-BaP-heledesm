@@ -14,7 +14,7 @@ Het logo bestaat uit een beeld- en woordmerk. Deze kunnen samen gebruikt worden,
 alleenstaand worden gebruikt. Het logo wordt op witte achtergrond in kleur weergegeven. Op een gekleurde achtergrond
 of een foto, zal het logo in witte outlines worden gebruikt. Een outline in een andere kleur als wit is verboden. 
 
-![Logo test](/images/logo/logotest.png)
+![Logo test](images/logo/logotest.png)
 
 ## Positief en negatief
 
