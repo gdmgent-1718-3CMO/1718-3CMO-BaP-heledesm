@@ -3,7 +3,7 @@
 permalink: logo/
 published: true
 title: Logo intro
-image: images/honden/hond2.jpg
+image: images/honden/hond7.jpg
 ---
 
 # Het logo
@@ -30,5 +30,5 @@ Het is belangrijk dat de herkenbaarheid van het logo blijft bestaan en dat men g
     
 ## Download logo
 
-Hieronder kunt u de verschillende versies van het logo downloaden. 
+Hieronder kunt u de verschillende versies van het logo downloaden. <br>
 <a href="http://loripsum.net/" target="_blank">Download logo</a>
