@@ -23,14 +23,14 @@
                     <div class="col-12 mb-4">
                         <img src="{{ page.image | absolute.url }}" style="width: 100%">
                     </div>
-                    <div class="container-fluid">
-                        <div class="col-12 col-md-4 col-lg-4 order-md-12">
-                            <nav id="toc" data-toggle="toc"></nav>
-                        </div>
-                        <main class="col-12 col-md-8 col-lg-8 order-md-1">
-                            {{ content }}
-                        </main>
+                    <div class="col-12 col-md-4 col-lg-4 order-md-12">
+                        <nav id="toc" data-toggle="toc"></nav>
                     </div>
+                    <main class="col-12 col-md-8 col-lg-8 order-md-1">
+                        <div class="container-fluid">
+                            {{ content }}
+                        </div>
+                    </main>
                 </div>
             </div>
         </div>
